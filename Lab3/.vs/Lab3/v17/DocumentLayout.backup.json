@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SpbPU\\WinForms\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C025E61C-693A-4036-956F-BDA98E34F9B4}|WinFormsApp3\\WinFormsApp3.csproj|d:\\spbpu\\winforms\\lab3\\winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C025E61C-693A-4036-956F-BDA98E34F9B4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C025E61C-693A-4036-956F-BDA98E34F9B4}|WinFormsApp3\\WinFormsApp3.csproj|D:\\SpbPU\\WinForms\\Lab3\\winformsapp3\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C025E61C-693A-4036-956F-BDA98E34F9B4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C025E61C-693A-4036-956F-BDA98E34F9B4}|WinFormsApp3\\WinFormsApp3.csproj|d:\\spbpu\\winforms\\lab3\\winformsapp3\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C025E61C-693A-4036-956F-BDA98E34F9B4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsshu\\AppData\\Local\\Temp\\.vsdbgsrc\\e8196dd713557355ad218a43d2100efb64a6c6b3d2008d395086df72749a2ee4\\ControlInputNullableInt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C025E61C-693A-4036-956F-BDA98E34F9B4}|WinFormsApp3\\WinFormsApp3.csproj|d:\\spbpu\\winforms\\lab3\\winformsapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C025E61C-693A-4036-956F-BDA98E34F9B4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsshu\\AppData\\Local\\SourceServer\\61953c5a2f74fea9b09af226e01b4f18d374929f0c5488d689869db52e8ffe5e\\src\\System.Windows.Forms\\src\\System\\Windows\\Forms\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C025E61C-693A-4036-956F-BDA98E34F9B4}|WinFormsApp3\\WinFormsApp3.csproj|D:\\SpbPU\\WinForms\\Lab3\\winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C025E61C-693A-4036-956F-BDA98E34F9B4}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\SpbPU\\WinForms\\Lab3\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.cs",
+              "ToolTip": "D:\\SpbPU\\WinForms\\Lab3\\WinFormsApp3\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp3\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:36:25.019Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControlInputNullableInt.cs",
+              "DocumentMoniker": "C:\\Users\\dsshu\\AppData\\Local\\Temp\\.vsdbgsrc\\e8196dd713557355ad218a43d2100efb64a6c6b3d2008d395086df72749a2ee4\\ControlInputNullableInt.cs",
+              "ToolTip": "C:\\Users\\dsshu\\AppData\\Local\\Temp\\.vsdbgsrc\\e8196dd713557355ad218a43d2100efb64a6c6b3d2008d395086df72749a2ee4\\ControlInputNullableInt.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T21:00:43.812Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\SpbPU\\WinForms\\Lab3\\WinFormsApp3\\StudentForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\StudentForm.cs",
+              "ToolTip": "D:\\SpbPU\\WinForms\\Lab3\\WinFormsApp3\\StudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "WinFormsApp3\\StudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:10:18.286Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentForm.cs",
+              "DocumentMoniker": "D:\\SpbPU\\WinForms\\Lab3\\WinFormsApp3\\StudentForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\StudentForm.cs",
+              "ToolTip": "D:\\SpbPU\\WinForms\\Lab3\\WinFormsApp3\\StudentForm.cs",
+              "RelativeToolTip": "WinFormsApp3\\StudentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:56:16.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\dsshu\\AppData\\Local\\SourceServer\\61953c5a2f74fea9b09af226e01b4f18d374929f0c5488d689869db52e8ffe5e\\src\\System.Windows.Forms\\src\\System\\Windows\\Forms\\Application.cs",
+              "ToolTip": "C:\\Users\\dsshu\\AppData\\Local\\SourceServer\\61953c5a2f74fea9b09af226e01b4f18d374929f0c5488d689869db52e8ffe5e\\src\\System.Windows.Forms\\src\\System\\Windows\\Forms\\Application.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAI4EAAAAAAAAAADwv6MEAAAPAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T21:00:50.55Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SpbPU\\WinForms\\Lab3\\WinFormsApp3\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Program.cs",
+              "ToolTip": "D:\\SpbPU\\WinForms\\Lab3\\WinFormsApp3\\Program.cs",
+              "RelativeToolTip": "WinFormsApp3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T21:00:52.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\SpbPU\\WinForms\\Lab3\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.cs",
+              "ToolTip": "D:\\SpbPU\\WinForms\\Lab3\\WinFormsApp3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "WinFormsApp3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:58:13.549Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
